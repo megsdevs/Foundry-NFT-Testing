@@ -47,3 +47,6 @@ Compiler run successful
 ```
 
 Only tests which use balanceOf function on already deployed mainnet instances of the NFT contracts fail in this way. Removing any balanceOf calls or deploying new instances as demonstrated in the above working tests gets around the issue. 
+
+You can query `balanceOf` for the mainnet contracts through etherscan: https://etherscan.io/token/0xe17827609ac34443b3987661f4e037642f6bd9ba#readProxyContract#F1 
+with the example address used in the broken test "0xea831d27E0E52b4dC32F42A5c4C5cBfd9b6D4a58"
