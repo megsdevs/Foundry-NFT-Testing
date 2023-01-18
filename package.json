@@ -1,0 +1,27 @@
+{
+  "name": "shellzorb-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.2",
+    "@openzeppelin/contracts": "^4.7.2",
+    "@openzeppelin/contracts-upgradeable": "^4.7.2",
+    "@openzeppelin/truffle-upgrades": "^1.16.0",
+    "@poanet/solidity-flattener": "^3.0.8",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "chai": "^4.3.6",
+    "erc721psi": "^0.6.1",
+    "operator-filter-registry": "^1.3.1",
+    "prettier": "^2.7.1",
+    "solidity-bits": "^0.3.2",
+    "truffle": "^5.5.25",
+    "truffle-plugin-verify": "^0.5.27"
+  }
+}

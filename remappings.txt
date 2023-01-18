@@ -1,0 +1,10 @@
+@chainlink/=node_modules/@chainlink/
+@ensdomains/=node_modules/@ensdomains/
+@eth-optimism/=node_modules/@eth-optimism/
+@openzeppelin/=node_modules/@openzeppelin/
+ds-test/=lib/forge-std/lib/ds-test/src/
+erc721psi/=node_modules/erc721psi/
+forge-std/=lib/forge-std/src/
+operator-filter-registry/=node_modules/operator-filter-registry/
+solidity-bits/=node_modules/solidity-bits/
+truffle/=node_modules/truffle/
